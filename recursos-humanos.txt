@@ -1,0 +1,9 @@
+DESCONTO DE INSS:
+
+1 - Abra o Visual Studio Code.
+2 - Crie uma Pasta e Renomeie.
+3 - Copie e Cole o codigo.
+4 - Clique em executar arquivo do python.
+5 - Digite seu salário e  clique em enter.
+6 - Obtenha o desconto do seu inss.
+
